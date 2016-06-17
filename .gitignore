@@ -1,3 +1,8 @@
 # corpus
 jawiki-latest-pages-articles
 corpus-jawiki-normalized.txt
+
+# model
+jawiki.model
+jawiki.model.syn0.npy
+jawiki.model.syn1neg.npy
